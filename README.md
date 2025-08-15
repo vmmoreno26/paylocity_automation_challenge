@@ -4,4 +4,8 @@
 
 - Once it is open, you can go to test/paylocity/DashboardTest.java
 
-- Click Run All or just select the Test from Explorer and right click Run As -> TestNG Test
+- Open the file and click Run All
+
+- or
+
+- Select the Test from Explorer and right click Run As -> TestNG Test
